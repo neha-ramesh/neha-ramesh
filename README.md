@@ -84,16 +84,6 @@ A conversational AI app built with Streamlit to answer travel queries using Gemi
 
 ---
 
-📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neha-ramesh&show_icons=true&theme=default" alt="GitHub Stats" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=neha-ramesh" alt="GitHub Streak" />
-</p>
-
----
-
 🌱 **Currently Learning**
 
 - 🛰️ Advanced Robotics & Embedded AI  
