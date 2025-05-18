@@ -36,28 +36,28 @@ I’m a passionate Computer Science Engineering student who thrives at the inter
 ### 🎙️ Speech Emotion Analyzer  
 Deep learning system using LSTM and VAE to classify emotional states from voice samples.  
 **Tech:** Python, TensorFlow, Librosa  
-[GitHub Repo](#https://github.com/neha-ramesh/Sentiment-Analysis)
+[GitHub Repo](https://github.com/neha-ramesh/Sentiment-Analysis)
 
 ---
 
 ### 💊 Smart Medication Dispenser  
 A Bluetooth-enabled embedded system that automates pill dispensing at scheduled intervals with buzzer alerts.  
 **Tech:** Arduino UNO, HC-05, L298N, C++  
-[GitHub Repo](#https://github.com/neha-ramesh/Smart-Medication-Dispenser)
+[GitHub Repo](https://github.com/neha-ramesh/Smart-Medication-Dispenser)
 
 ---
 
 ### 📄 Smart Resume Parser  
 An NLP system that extracts structured information from PDF resumes and ranks them against job descriptions.  
 **Tech:** Python, spaCy, pdfplumber, Scikit-learn  
-[GitHub Repo](#https://github.com/neha-ramesh/Resume-Parser-and-Job-Recommendation-System)
+[GitHub Repo](https://github.com/neha-ramesh/Resume-Parser-and-Job-Recommendation-System)
 
 ---
 
 ### 🧭 Travel Planner AI Assistant  
 A conversational AI app built with Streamlit to answer travel queries using Gemini/Cohere APIs.  
 **Tech:** Streamlit, Cohere, Python  
-[GitHub Repo](#https://github.com/neha-ramesh/Travel-Agent)
+[GitHub Repo](https://github.com/neha-ramesh/Travel-Agent)
 
 ---
 
