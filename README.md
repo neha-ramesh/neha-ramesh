@@ -43,7 +43,7 @@ Deep learning system using LSTM and VAE to classify emotional states from voice 
 ### 💊 Smart Medication Dispenser  
 A Bluetooth-enabled embedded system that automates pill dispensing at scheduled intervals with buzzer alerts.  
 **Tech:** Arduino UNO, HC-05, L298N, C++  
-[GitHub Repo](https://github.com/neha-ramesh/Smart-Medication-Dispenser)
+[GitHub Repo](#https://github.com/neha-ramesh/Smart-Medication-Dispenser)
 
 ---
 
