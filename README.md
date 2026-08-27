@@ -2,30 +2,32 @@
 
 [svg](https://github.com/neha-ramesh#hi--im-neha-ramesh)
 
-**🚀 Machine Learning | Embedded Systems | Full Stack | AI Enthusiast**
-*B.Tech Computer Science @ VIT Chennai | Intern @ DATAYAAN & CVRDE*
+**🚀 Automation and Development | Machine Learning | AI Enthusiast**
+*B.Tech Computer Science @ VIT Chennai | Ex-BlackRock SDE Intern*
 
 ---
 
 🎯 **About Me**
 
-I’m a passionate Computer Science Engineering graduate who thrives at the intersection of **AI, IoT, and Embedded Systems**. I enjoy building impactful tech—from AI-driven path planning drones 🛩️ to smart medication dispensers 💊. Currently exploring full-stack platforms, Generative AI, and intelligent security systems for real-world applications.
+I’m a passionate Computer Science Engineering graduate who thrives at the intersection of **AI, Software Engineering, and Embedded Systems**. I enjoy building impactful tech—from AI-driven path planning drones 🛩️ to smart medication dispensers 💊. Currently exploring full-stack platforms, Generative AI, and intelligent security systems for real-world applications.
 
 ---
 
 🛠 **Tech Toolbox**
 
-- **Languages:** Python, C++, C, JavaScript, HTML, CSS
-- **Technologies:** Embedded C, CAN Protocol, Ethernet, DDS, ReactJS, Spring Boot, Node-RED
-- **AI/ML:** TensorFlow, Keras, spaCy, Scikit-learn, pandas, NumPy
-- **Tools:** Qt Creator, MATLAB, Wireshark, Figma, SQLite, Streamlit
-- **Specialties:** Firmware Security, IoT Communication, UI/UX Design
-
+- **Languages:** Python, Java, Bash/Shell Scripting
+- **Backend & Web Technologies:** REST APIs, FastAPI, HTTP, OAuth2, JSON, Microsoft Graph API, Multithreading
+- **Databases:** MySQL, SQL Server, Snowflake, Sybase, SQLite, ADLS
+- **DevOps & Version Control:** Git, GitHub, Azure DevOps, Docker, Airflow, CI/CD Pipelines
+- **Frontend:** HTML, CSS, React (basic)
+- **Tools:** SharePoint, PagerDuty, Power Automate, Streamlit, Wireshark
+- **Data Engineering:** Pandas, NumPy, ETL Automation, Data Cleaning, Data Analysis, Data Validation
+- **Machine Learning & AI:** PyTorch, TensorFlow, Scikit-learn, Transformers, BERT, DistilBERT, LLMs, NLP, LIME, SHAP, Integrated Gradients
 ---
 
 📚 **Academic Highlights**
 
-- 🎓 B.Tech CSE, VIT Chennai (CGPA: 8.93)
+- 🎓 B.Tech CSE, VIT Chennai (CGPA: 9.03)
 - 📜 Research Intern @ VIT SCOPE – AI-driven Adaptive Drone Navigation
 - 🛡️ Conference Paper: "Comparative Analysis of Firmware Security" @ ICRTAC 2023
 
